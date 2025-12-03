@@ -25,5 +25,7 @@ int main() {
     cin >> buy_in;
     cout << "You have bought in for $" << buy_in << "\n";
 
+    // build rest of game here
+
     return 0;
 }
