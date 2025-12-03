@@ -13,6 +13,8 @@ class GameObject{
 
         void game();
 
+        int hand(int money, int min_bet);
+
         
 
     private:

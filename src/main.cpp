@@ -2,7 +2,7 @@
 TO RUN THIS CODE:
 
 # compile
-g++ -std=c++17 -O2 -Wall -Wextra -g -o src/main.exe src/main.cpp src/game/game.cpp
+g++ -std=c++17 -O2 -Wall -Wextra -g -o src/main.exe src/main.cpp src/game/game.cpp src/deck/deck.cpp src/card/Card.cpp
 
 # run
 .\src\main.exe
